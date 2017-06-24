@@ -1,0 +1,2 @@
+# RegistroEquipos
+C#
